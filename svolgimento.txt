@@ -1,0 +1,4 @@
+[Luca] Creazione Video per Dataset 
+[Francesca] Creazione Video per Dataset 
+[Rosa] Creazione Foto per Dataset 
+[Francesca] Script per suddividere i video in Frame (1 ogni 5)
